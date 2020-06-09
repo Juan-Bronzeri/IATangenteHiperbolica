@@ -1,0 +1,1 @@
+Primeiro projeto utilizando IA com a função de tangente hiperbólica.
